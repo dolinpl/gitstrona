@@ -1,1 +1,3 @@
 Zapisuje plik przyk³adowym tekstem
+Elo1
+trzeci zmiana w pliku
