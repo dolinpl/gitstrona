@@ -6,3 +6,7 @@ trzeci zmiana w pliku
 Czwarta zmiana
 ZMiana zmiany
 22:36
+
+opcjastash
+
+dopisuje linijkê
